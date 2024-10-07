@@ -13,3 +13,5 @@ def kadane_algorithm(arr):
 array = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
 result = kadane_algorithm(array)
 print("Jumlah terbesar dari subarray yang berdekatan adalah:", result)
+
+#tambabhan
